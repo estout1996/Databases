@@ -1,0 +1,9 @@
+Elizabeth Stout
+CPSC 4620 Projct 3
+Due June 9, 2020
+
+Connection information:
+
+mysql -h mysql1.cs.clemson.edu -u AntonPizza_frjz -p AntonPizza_mffr
+
+password: 4620estout

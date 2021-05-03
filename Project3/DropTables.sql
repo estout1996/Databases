@@ -1,0 +1,16 @@
+SET foreign_key_checks = 0;
+DROP TABLE toppings;
+DROP TABLE discounts;
+DROP TABLE baseprice;
+DROP TABLE customer;
+DROP TABLE orders;
+DROP TABLE pizza;
+DROP TABLE pizzatoppings;
+DROP TABLE pizzadiscount;
+DROP TABLE orderdiscount;
+DROP TABLE dinein;
+DROP TABLE seat;
+DROP TABLE pickup;
+DROP TABLE deliverycustomer;
+DROP TABLE delivery;
+SET foreign_key_checks = 1;
